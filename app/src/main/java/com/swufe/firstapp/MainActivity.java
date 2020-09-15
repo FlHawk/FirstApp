@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private EditText editInput;     //定义文本框
     private Button btnC2F;          //定义按钮
     private Button btnF2C;
-
+// add something
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
